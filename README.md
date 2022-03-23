@@ -18,7 +18,8 @@ This node app is providing a restful api to ecommerce backend. It provides stand
 - run ```npm i``` to install dependencies
 
 ## How to use
-To use the application launch it with ```node server.js``` and use either postman or insomnia to access the api endpoints.
+To use the application launch it with ```node server.js``` and use either postman or insomnia to access the api endpoints. 
+This [YouTube video](https://youtu.be/jRvp8O1Ban8) provides a quick walkthrough of getting the API set up and used with insomnia.
 
 
 
